@@ -168,4 +168,4 @@ The server is now up and running
 
 Connect it via port 3300
 
-![application deployed](images/Isbn-Author-Page.PNG
+![application deployed](images/Isbn-Author-Page.PNG)
